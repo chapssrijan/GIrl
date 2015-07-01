@@ -24,7 +24,7 @@ public class move : MonoBehaviour {
 			jump = true;
 		
 	}
-	
+	bool movee = false;
 	// Update is called once per frame
 	void Update () {
 		if (Input.GetKey (KeyCode.W)) {
@@ -51,6 +51,13 @@ public class move : MonoBehaviour {
 			
 		} else
 			left = false;
+
+		if (left || right) {
+			movee = true;
+
+		} else
+			movee = false;
+
 	}
 	float scalex;
 	void FixedUpdate()
@@ -64,19 +71,28 @@ public class move : MonoBehaviour {
 		if(down)
 			rb.AddForce (-transform.up *speed);
 		if (right) {
-			rb.AddForce (transform.right * -speed);
+			rb.AddForce (transform.right * speed);
 			if(transform.localScale.x < 0)
 				transform.localScale= new Vector3(scalex,transform.localScale.y,transform.localScale.z);
 			
 		}
 		if (left) {
-			rb.AddForce (-transform.right * -speed);
+			rb.AddForce (transform.right * -speed);
 			if(transform.localScale.x > 0)
 				transform.localScale= new Vector3(-scalex,transform.localScale.y,transform.localScale.z);
 			
 		}
 	
-		
+		if (!movee) {
+			rb.velocity = new Vector2(0,rb.velocity.y);
+		}
+		if (left || right) {
+			animation1.SetBool("moving",true);
+			animation1.Play("boy");
+		} else {
+			animation1.SetBool ("moving",false);
+			animation1.Play("Idle");
+		}
 		
 		
 	}

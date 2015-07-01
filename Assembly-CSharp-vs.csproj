@@ -5,7 +5,7 @@
 	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
 	<ProductVersion>10.0.20506</ProductVersion>
 	<SchemaVersion>2.0</SchemaVersion>
-	<ProjectGuid>{EF6F625B-76E5-73F2-2268-A1D53BE60FED}</ProjectGuid>
+	<ProjectGuid>{AD928C22-D3E5-6893-0801-F43CB361B60C}</ProjectGuid>
 	<OutputType>Library</OutputType>
 	<AppDesignerFolder>Properties</AppDesignerFolder>
 	<RootNamespace></RootNamespace>
@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\FOllowCamera.cs" />
+     <Compile Include="Assets\Kamera.cs" />
      <Compile Include="Assets\move.cs" />
      <Compile Include="Assets\ss.cs" />
  <Reference Include="UnityEngine.UI">
