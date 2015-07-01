@@ -1,0 +1,759 @@
+fileFormatVersion: 2
+guid: 7c8eb472ab4812c4f8ae0944e613c8b4
+timeCreated: 1435732518
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: runningGrant-easel_0
+    21300002: runningGrant-easel_1
+    21300004: runningGrant-easel_2
+    21300006: runningGrant-easel_3
+    21300008: runningGrant-easel_4
+    21300010: runningGrant-easel_5
+    21300012: runningGrant-easel_6
+    21300014: runningGrant-easel_7
+    21300016: runningGrant-easel_8
+    21300018: runningGrant-easel_9
+    21300020: runningGrant-easel_10
+    21300022: runningGrant-easel_11
+    21300024: runningGrant-easel_12
+    21300026: runningGrant-easel_13
+    21300028: runningGrant-easel_14
+    21300030: runningGrant-easel_15
+    21300032: runningGrant-easel_16
+    21300034: runningGrant-easel_17
+    21300036: runningGrant-easel_18
+    21300038: runningGrant-easel_19
+    21300040: runningGrant-easel_20
+    21300042: runningGrant-easel_21
+    21300044: runningGrant-easel_22
+    21300046: runningGrant-easel_23
+    21300048: runningGrant-easel_24
+    21300050: runningGrant-easel_25
+    21300052: runningGrant-easel_26
+    21300054: runningGrant-easel_27
+    21300056: runningGrant-easel_28
+    21300058: runningGrant-easel_29
+    21300060: runningGrant-easel_30
+    21300062: runningGrant-easel_31
+    21300064: runningGrant-easel_32
+    21300066: runningGrant-easel_33
+    21300068: runningGrant-easel_34
+    21300070: runningGrant-easel_35
+    21300072: runningGrant-easel_36
+    21300074: runningGrant-easel_37
+    21300076: runningGrant-easel_38
+    21300078: runningGrant-easel_39
+    21300080: runningGrant-easel_40
+    21300082: runningGrant-easel_41
+    21300084: runningGrant-easel_42
+    21300086: runningGrant-easel_43
+    21300088: runningGrant-easel_44
+    21300090: runningGrant-easel_45
+    21300092: runningGrant-easel_46
+    21300094: runningGrant-easel_47
+    21300096: runningGrant-easel_48
+    21300098: runningGrant-easel_49
+    21300100: runningGrant-easel_50
+    21300102: runningGrant-easel_51
+    21300104: runningGrant-easel_52
+    21300106: runningGrant-easel_53
+    21300108: runningGrant-easel_54
+    21300110: runningGrant-easel_55
+    21300112: runningGrant-easel_56
+    21300114: runningGrant-easel_57
+    21300116: runningGrant-easel_58
+    21300118: runningGrant-easel_59
+    21300120: runningGrant-easel_60
+    21300122: runningGrant-easel_61
+    21300124: runningGrant-easel_62
+    21300126: runningGrant-easel_63
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: runningGrant-easel_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1765
+        width: 158
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runningGrant-easel_1
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1765
+        width: 158
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runningGrant-easel_2
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1761
+        width: 147
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runningGrant-easel_3
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1760
+        width: 147
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runningGrant-easel_4
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 1758
+        width: 116
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runningGrant-easel_5
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 1758
+        width: 116
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runningGrant-easel_6
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 1758
+        width: 106
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runningGrant-easel_7
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 1758
+        width: 106
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runningGrant-easel_8
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 1757
+        width: 98
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runningGrant-easel_9
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 1757
+        width: 98
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runningGrant-easel_10
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 1757
+        width: 143
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runningGrant-easel_11
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 1757
+        width: 143
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runningGrant-easel_12
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1464
+        width: 153
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runningGrant-easel_13
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1464
+        width: 153
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runningGrant-easel_14
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1477
+        width: 148
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runningGrant-easel_15
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1477
+        width: 148
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runningGrant-easel_16
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1475
+        width: 140
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runningGrant-easel_17
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1475
+        width: 140
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runningGrant-easel_18
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 1465
+        width: 117
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runningGrant-easel_19
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 1465
+        width: 117
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runningGrant-easel_20
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 1464
+        width: 96
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runningGrant-easel_21
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 1464
+        width: 96
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runningGrant-easel_22
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 1465
+        width: 108
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runningGrant-easel_23
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 1465
+        width: 108
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runningGrant-easel_24
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1172
+        width: 144
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runningGrant-easel_25
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1172
+        width: 144
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runningGrant-easel_26
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1185
+        width: 148
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runningGrant-easel_27
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1185
+        width: 148
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runningGrant-easel_28
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1183
+        width: 140
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runningGrant-easel_29
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1183
+        width: 140
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runningGrant-easel_30
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 1172
+        width: 121
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runningGrant-easel_31
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 1172
+        width: 121
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runningGrant-easel_32
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 1176
+        width: 91
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runningGrant-easel_33
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 1176
+        width: 91
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runningGrant-easel_34
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 1176
+        width: 121
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runningGrant-easel_35
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 1176
+        width: 121
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runningGrant-easel_36
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 924
+        width: 138
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runningGrant-easel_37
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 924
+        width: 138
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runningGrant-easel_38
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 954
+        width: 146
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runningGrant-easel_39
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 954
+        width: 146
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runningGrant-easel_40
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 974
+        width: 150
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runningGrant-easel_41
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 974
+        width: 150
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runningGrant-easel_42
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 979
+        width: 146
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runningGrant-easel_43
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 979
+        width: 146
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runningGrant-easel_44
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 964
+        width: 141
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runningGrant-easel_45
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 964
+        width: 141
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runningGrant-easel_46
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 943
+        width: 122
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runningGrant-easel_47
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 943
+        width: 122
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runningGrant-easel_48
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 650
+        width: 124
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runningGrant-easel_49
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 650
+        width: 124
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runningGrant-easel_50
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 636
+        width: 129
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runningGrant-easel_51
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 636
+        width: 129
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runningGrant-easel_52
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 613
+        width: 138
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runningGrant-easel_53
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 613
+        width: 138
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runningGrant-easel_54
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 592
+        width: 120
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runningGrant-easel_55
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 592
+        width: 120
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runningGrant-easel_56
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 592
+        width: 96
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runningGrant-easel_57
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 592
+        width: 96
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runningGrant-easel_58
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 592
+        width: 89
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runningGrant-easel_59
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 592
+        width: 89
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runningGrant-easel_60
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 300
+        width: 89
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runningGrant-easel_61
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 300
+        width: 89
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runningGrant-easel_62
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 296
+        width: 127
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runningGrant-easel_63
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 296
+        width: 127
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
