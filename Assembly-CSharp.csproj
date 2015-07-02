@@ -48,6 +48,7 @@
   <ItemGroup>
      <Compile Include="Assets\FOllowCamera.cs" />
      <Compile Include="Assets\Kamera.cs" />
+     <Compile Include="Assets\enemy.cs" />
      <Compile Include="Assets\move.cs" />
      <Compile Include="Assets\ss.cs" />
  <Reference Include="UnityEngine.UI">

@@ -11,6 +11,7 @@ public class move : MonoBehaviour {
 	bool left=false;
 	bool jump = false;
 	Animator animation1;
+
 	
 	// Use this for initialization
 	void Start () {
@@ -68,33 +69,51 @@ public class move : MonoBehaviour {
 			up = false;
 			jump = false;
 		}
-		if(down)
-			rb.AddForce (-transform.up *speed);
+	//	if(down)
+	//		rb.AddForce (-transform.up *speed);
+		Debug.Log ("Velocity: " + rb.velocity.x);
+
+		//caps the velocity to wanted value
+		if(Mathf.Abs (rb.velocity.x)< 5f ){
 		if (right) {
 			rb.AddForce (transform.right * speed);
 			if(transform.localScale.x < 0)
 				transform.localScale= new Vector3(scalex,transform.localScale.y,transform.localScale.z);
 			
 		}
-		if (left) {
+		else if (left) {
 			rb.AddForce (transform.right * -speed);
 			if(transform.localScale.x > 0)
 				transform.localScale= new Vector3(-scalex,transform.localScale.y,transform.localScale.z);
 			
 		}
+			else if(down){
+
+				rb.AddForce(transform.up *- speed);
+
+			}
+		}
 	
 		if (!movee) {
 			rb.velocity = new Vector2(0,rb.velocity.y);
 		}
-		if (left || right) {
-			animation1.SetBool("moving",true);
-			animation1.Play("boy");
-		} else {
+		if ((left || right) && !down) {
+			animation1.SetBool ("moving", true);
+			animation1.Play ("boy");
+		} else if (up) {
+			animation1.Play ("Jump");
+		} else if (down) {
+			animation1.Play ("crouch");
+		}
+		else {
 			animation1.SetBool ("moving",false);
 			animation1.Play("Idle");
 		}
 		
 		
 	}
+
+	
+
 
 }
