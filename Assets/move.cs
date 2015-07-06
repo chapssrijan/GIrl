@@ -12,19 +12,41 @@ public class move : MonoBehaviour {
 	bool jump = false;
 	Animator animation1;
 
-	
+
+
+	GameObject players;
+	Vector3 spawnpoint;
 	// Use this for initialization
 	void Start () {
+
+		spawnpoint = transform.position;
 		scalex =  transform.localScale.x;
 		animation1 = GetComponent<Animator> ();
 		rb = GetComponent<Rigidbody2D> ();
+	
+		players = GameObject.Find ("player");
 	}
 	
 	void OnCollisionEnter2D(Collision2D other){
-		if (other.collider.tag == "Ground")
+		if (other.collider.tag == "Ground"){
 			jump = true;
+		}
+		if (other.collider.tag == "enemy") {
+			transform.position = spawnpoint;
+		}
+		if(other.collider.tag=="Goblin"){
+				transform.position=spawnpoint;
+			}
+		if (other.collider.tag == "newplayer") {
 		
-	}
+			Destroy (players);
+		}
+
+
+	 
+
+			         }
+
 	bool movee = false;
 	// Update is called once per frame
 	void Update () {
@@ -68,30 +90,42 @@ public class move : MonoBehaviour {
 			rb.AddForce (transform.up * jumpspeed);
 			up = false;
 			jump = false;
+			transform.localScale=new Vector2(scalex,0.4f);
 		}
-	//	if(down)
-	//		rb.AddForce (-transform.up *speed);
+	
 		Debug.Log ("Velocity: " + rb.velocity.x);
 
 		//caps the velocity to wanted value
 		if(Mathf.Abs (rb.velocity.x)< 5f ){
 		if (right) {
 			rb.AddForce (transform.right * speed);
+				transform.localScale=new Vector2(scalex,0.4f);
 			if(transform.localScale.x < 0)
 				transform.localScale= new Vector3(scalex,transform.localScale.y,transform.localScale.z);
 			
 		}
-		else if (left) {
+		if (left) {
 			rb.AddForce (transform.right * -speed);
+				transform.localScale=new Vector2(scalex,0.4f);
 			if(transform.localScale.x > 0)
 				transform.localScale= new Vector3(-scalex,transform.localScale.y,transform.localScale.z);
 			
 		}
-			else if(down){
+		
+		if(down){
 
 				rb.AddForce(transform.up *- speed);
+				transform.localScale=new Vector2(scalex,0.4f);
+				if(transform.localScale.x>0)
+					transform.localScale=new Vector2(-scalex,0.4f);
 
 			}
+			else{
+				
+				transform.localScale=new Vector2(scalex,0.42f);
+
+			}
+
 		}
 	
 		if (!movee) {
@@ -102,6 +136,7 @@ public class move : MonoBehaviour {
 			animation1.Play ("boy");
 		} else if (up) {
 			animation1.Play ("Jump");
+		
 		} else if (down) {
 			animation1.Play ("crouch");
 		}
