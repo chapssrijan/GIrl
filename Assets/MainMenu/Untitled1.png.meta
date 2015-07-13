@@ -1,0 +1,1045 @@
+fileFormatVersion: 2
+guid: 34e95b25c9445024da646122af5325ad
+timeCreated: 1436437076
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Untitled1_0
+    21300002: Untitled1_1
+    21300004: Untitled1_2
+    21300006: Untitled1_3
+    21300008: Untitled1_4
+    21300010: Untitled1_5
+    21300012: Untitled1_6
+    21300014: Untitled1_7
+    21300016: Untitled1_8
+    21300018: Untitled1_9
+    21300020: Untitled1_10
+    21300022: Untitled1_11
+    21300024: Untitled1_12
+    21300026: Untitled1_13
+    21300028: Untitled1_14
+    21300030: Untitled1_15
+    21300032: Untitled1_16
+    21300034: Untitled1_17
+    21300036: Untitled1_18
+    21300038: Untitled1_19
+    21300040: Untitled1_20
+    21300042: Untitled1_21
+    21300044: Untitled1_22
+    21300046: Untitled1_23
+    21300048: Untitled1_24
+    21300050: Untitled1_25
+    21300052: Untitled1_26
+    21300054: Untitled1_27
+    21300056: Untitled1_28
+    21300058: Untitled1_29
+    21300060: Untitled1_30
+    21300062: Untitled1_31
+    21300064: Untitled1_32
+    21300066: Untitled1_33
+    21300068: Untitled1_34
+    21300070: Untitled1_35
+    21300072: Untitled1_36
+    21300074: Untitled1_37
+    21300076: Untitled1_38
+    21300078: Untitled1_39
+    21300080: Untitled1_40
+    21300082: Untitled1_41
+    21300084: Untitled1_42
+    21300086: Untitled1_43
+    21300088: Untitled1_44
+    21300090: Untitled1_45
+    21300092: Untitled1_46
+    21300094: Untitled1_47
+    21300096: Untitled1_48
+    21300098: Untitled1_49
+    21300100: Untitled1_50
+    21300102: Untitled1_51
+    21300104: Untitled1_52
+    21300106: Untitled1_53
+    21300108: Untitled1_54
+    21300110: Untitled1_55
+    21300112: Untitled1_56
+    21300114: Untitled1_57
+    21300116: Untitled1_58
+    21300118: Untitled1_59
+    21300120: Untitled1_60
+    21300122: Untitled1_61
+    21300124: Untitled1_62
+    21300126: Untitled1_63
+    21300128: Untitled1_64
+    21300130: Untitled1_65
+    21300132: Untitled1_66
+    21300134: Untitled1_67
+    21300136: Untitled1_68
+    21300138: Untitled1_69
+    21300140: Untitled1_70
+    21300142: Untitled1_71
+    21300144: Untitled1_72
+    21300146: Untitled1_73
+    21300148: Untitled1_74
+    21300150: Untitled1_75
+    21300152: Untitled1_76
+    21300154: Untitled1_77
+    21300156: Untitled1_78
+    21300158: Untitled1_79
+    21300160: Untitled1_80
+    21300162: Untitled1_81
+    21300164: Untitled1_82
+    21300166: Untitled1_83
+    21300168: Untitled1_84
+    21300170: Untitled1_85
+    21300172: Untitled1_86
+    21300174: Untitled1_87
+    21300176: Untitled1_88
+    21300178: Untitled1_89
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Untitled1_0
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1266
+        width: 83
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_1
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1265
+        width: 79
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_2
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1264
+        width: 61
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_3
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1265
+        width: 53
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_4
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1265
+        width: 63
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_5
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1114
+        width: 68
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_6
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1115
+        width: 86
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_7
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1115
+        width: 82
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_8
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1115
+        width: 79
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_9
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1114
+        width: 73
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_10
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 955
+        width: 55
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_11
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 955
+        width: 63
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_12
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 955
+        width: 67
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_13
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 957
+        width: 87
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_14
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 959
+        width: 82
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_15
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 874
+        width: 73
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_16
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 874
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_17
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 885
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_18
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 885
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_19
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 885
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_20
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 885
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_21
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 885
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_22
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 885
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_23
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 881
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_24
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 885
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_25
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 885
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_26
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 885
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_27
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 885
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_28
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 885
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_29
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 874
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_30
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 881
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_31
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 882
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_32
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 885
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_33
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 885
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_34
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 881
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_35
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 885
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_36
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 885
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_37
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 885
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_38
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 885
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_39
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 885
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_40
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 885
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_41
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 885
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_42
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 885
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_43
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 885
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_44
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 881
+        width: 4
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_45
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 845
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 845
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_47
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 845
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_48
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 845
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_49
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 845
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_50
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 845
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_51
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 845
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_52
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 845
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_53
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 845
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_54
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 845
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_55
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 845
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_56
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 845
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_57
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 845
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_58
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 845
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_59
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 845
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_60
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 845
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_61
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 845
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_62
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 845
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_63
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 841
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_64
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 845
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_65
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 845
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_66
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 845
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_67
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 845
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_68
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 845
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_69
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 845
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_70
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 845
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_71
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 845
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_72
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 845
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_73
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 845
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_74
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 845
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_75
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 845
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_76
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 840
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_77
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 845
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_78
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 845
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_79
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 617
+        width: 110
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_80
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 653
+        width: 122
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_81
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 616
+        width: 97
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_82
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 564
+        width: 17
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_83
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 289
+        width: 87
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_84
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 289
+        width: 127
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_85
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 289
+        width: 127
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_86
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 292
+        width: 97
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_87
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 38
+        width: 61
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_88
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 38
+        width: 64
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled1_89
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 30
+        width: 88
+        height: 159
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
