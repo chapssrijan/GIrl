@@ -49,6 +49,7 @@
      <Compile Include="Assets\Buttons.cs" />
      <Compile Include="Assets\Kamera.cs" />
      <Compile Include="Assets\MainMenu\scripts\MainMenu.cs" />
+     <Compile Include="Assets\ball.cs" />
      <Compile Include="Assets\enemy.cs" />
      <Compile Include="Assets\move.cs" />
      <Compile Include="Assets\punch.cs" />
